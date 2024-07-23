@@ -1,0 +1,16 @@
+[[GNURX]]
+arch = "i686"
+git-tree-sha1 = "62a5a20a196acd67430f063077a80b72ee39e662"
+os = "windows"
+
+    [[GNURX.download]]
+    sha256 = "c93f7ff8e209719f2af5afaec87eac5929f897a2c7e24368214f85a00a7871e7"
+    url = "https://github.com/JuliaBinaryWrappers/GNURX_jll.jl/releases/download/GNURX-v2.5.1+0/GNURX.v2.5.1.i686-w64-mingw32.tar.gz"
+[[GNURX]]
+arch = "x86_64"
+git-tree-sha1 = "22244653ece3f67ce10e02b082ba3c5c6807e229"
+os = "windows"
+
+    [[GNURX.download]]
+    sha256 = "d0fc0a989137376d0090314831d9ce2ba022d5bedd0e325fefa6f55a32a2fb32"
+    url = "https://github.com/JuliaBinaryWrappers/GNURX_jll.jl/releases/download/GNURX-v2.5.1+0/GNURX.v2.5.1.x86_64-w64-mingw32.tar.gz"
